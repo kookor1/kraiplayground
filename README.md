@@ -6,6 +6,7 @@ Minimal GitHub Pages setup for KR AI Playground.
 - `index.html`
 - `terms.html`
 - `privacy.html`
+- `tiktok-callback.html`
 
 ## Suggested GitHub Pages URLs
 If GitHub Pages is enabled for this repo, the pages will typically be available at:
@@ -13,6 +14,7 @@ If GitHub Pages is enabled for this repo, the pages will typically be available 
 - `https://kookor1.github.io/kraiplayground/`
 - `https://kookor1.github.io/kraiplayground/terms.html`
 - `https://kookor1.github.io/kraiplayground/privacy.html`
+- `https://kookor1.github.io/kraiplayground/tiktok-callback.html`
 
 ## Notes
 - Update the contact section later if you want to use an email instead of the GitHub repo URL.
